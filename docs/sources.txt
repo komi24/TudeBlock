@@ -2,3 +2,5 @@ Liste de sources :
 
 http://www.novethic.fr/breves.html
 
+Stratégies de recherche :
+- A partir des entreprises cibles (apple, ryanair, etc.) identifier les sources et les mots clefs permettant de trouver les articles pertinents
